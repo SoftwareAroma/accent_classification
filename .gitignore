@@ -1,0 +1,27 @@
+# Visual Studio Code
+.vscode/
+.vs/
+
+src/data/
+data/
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+
+# JetBrains
+.idea/
+
+# Zip files
+*.zip
+
+# Data folder
+/data/
+
+# environment file
+.env
+venv/
+
+
